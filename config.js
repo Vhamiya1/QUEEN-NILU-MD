@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QUEENNILU;;;V31nRSrJ#YSv8Pb6ozq_Z7IDSUElVCHXnnJrvg8eC45xXeNhrx_A' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;AvdXWDaS#ZsKKaDKqLCRFfCODIE0RCeWCvwEN1U9jZYlf1Ea1P2E' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://chamika_user:zeZTAdtKAwfs8lZO3s4fzMBD7RgVkHii@dpg-clvbccud3nmc738b57m0-a.frankfurt-postgres.render.com/chamika'
